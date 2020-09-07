@@ -58,7 +58,7 @@ header .close {
     text-decoration: none;
 }
 
-@media (max-width: 650px){
+@media (max-width: 750px){
     header ul {
         position: fixed;
         top:0;
