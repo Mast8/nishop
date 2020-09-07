@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nishop/static/css/main.a8e0a40e.chunk.css",
-    "main.js": "/nishop/static/js/main.ffef83f3.chunk.js",
-    "main.js.map": "/nishop/static/js/main.ffef83f3.chunk.js.map",
+    "main.js": "/nishop/static/js/main.22aceed6.chunk.js",
+    "main.js.map": "/nishop/static/js/main.22aceed6.chunk.js.map",
     "runtime-main.js": "/nishop/static/js/runtime-main.152cebda.js",
     "runtime-main.js.map": "/nishop/static/js/runtime-main.152cebda.js.map",
     "static/js/2.470e815b.chunk.js": "/nishop/static/js/2.470e815b.chunk.js",
     "static/js/2.470e815b.chunk.js.map": "/nishop/static/js/2.470e815b.chunk.js.map",
     "index.html": "/nishop/index.html",
-    "precache-manifest.ac28b5e5893f793448a0d87d57e14f6e.js": "/nishop/precache-manifest.ac28b5e5893f793448a0d87d57e14f6e.js",
+    "precache-manifest.164673f96f7f3c5c07e1582ad1a42265.js": "/nishop/precache-manifest.164673f96f7f3c5c07e1582ad1a42265.js",
     "service-worker.js": "/nishop/service-worker.js",
     "static/css/main.a8e0a40e.chunk.css.map": "/nishop/static/css/main.a8e0a40e.chunk.css.map",
     "static/js/2.470e815b.chunk.js.LICENSE.txt": "/nishop/static/js/2.470e815b.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.152cebda.js",
     "static/js/2.470e815b.chunk.js",
     "static/css/main.a8e0a40e.chunk.css",
-    "static/js/main.ffef83f3.chunk.js"
+    "static/js/main.22aceed6.chunk.js"
   ]
 }
